@@ -18,5 +18,5 @@ Oosthuizen heeft verschillende discord servers tot hun beschikking.
 
 | Server | Beschrijving | Invite link |
 |--|--|:---:|
-| Oosthuizen Roleplay | Officiele Discord van Oosthuizen | [Invite](https://discord.gg/oosthuizenroleplay) |
-| Oosthuizen Onderwereld | Onderwereld Discord van Oosthuizen | [Invite](https://discord.gg/gxVjFs8Nm7) |
+| Oosthuizen Roleplay | Officiele Discord van Oosthuizen | [Invite](https://discord.com/invite/oosthuizenroleplay) |
+| Oosthuizen Onderwereld | Onderwereld Discord van Oosthuizen | [Invite](https://discord.com/invite/CX2dGEeEKh) |
