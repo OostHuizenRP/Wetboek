@@ -11,6 +11,7 @@ theme:
   name: material
   logo: assets/logos/ohlogo.png
   favicon: assets/logos/ohlogo.png
+  custom_dir: overrides
   font:
     text: Montserrat
   icon:
@@ -30,7 +31,7 @@ theme:
     - toc.integrate
     - content.tabs.link
     #- announce.dismiss // Disabled atm
-plugins: # REMOVE THIS I MURDER UR ASS. #LOOK THE TERMINAL
+plugins:
 - search
 - minify:
     minify_html: true
