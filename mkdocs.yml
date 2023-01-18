@@ -11,7 +11,7 @@ theme:
   name: material
   logo: assets/logos/ohlogo.png
   favicon: assets/logos/ohlogo.png
-  custom_dir: overrides
+  custom_dir: docs/overrides
   font:
     text: Montserrat
   icon:
