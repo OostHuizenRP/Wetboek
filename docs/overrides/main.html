@@ -2,9 +2,9 @@
 {% block extrahead %}
   {% set title = config.site_name %}
   {% if page and page.meta and page.meta.title %}
-    {% set title = title ~ " â€¢ " ~ page.meta.title %}
+    {% set title = title ~ " - " ~ page.meta.title %}
   {% elif page and page.title and not page.is_homepage %}
-    {% set title = title ~ " â€¢ " ~ page.title | striptags %}
+    {% set title = title ~ " - " ~ page.title | striptags %}
   {% endif %}
 
   <meta property="og:locale" content="nl_NL">
@@ -19,7 +19,7 @@
   {% if page.canonical_url %}
     <meta property="og:url" content="{{ page.canonical_url }}">
   {% endif %}
-  <meta property="og:image" content="../assets/ohlogo.png">
+  <meta property="og:image" content="https://github.com/OosthuizenRP/Wetboek/blob/main/docs/assets/logos/ohlogo.png?raw=true">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="Wetboek Oosthuizen">
@@ -30,5 +30,6 @@
   {% elif config.site_description %}
     <meta name="twitter:description" content="{{ config.site_description }}">
   {% endif %}
-  <meta name="twitter:image" content="../assets/ohlogo.png">
+  <meta name="twitter:image" content="https://github.com/OosthuizenRP/Wetboek/blob/main/docs/assets/logos/ohlogo.png?raw=true">
+  <meta name="theme-color" content="#0D6EFD" />
 {% endblock %}
