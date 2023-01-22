@@ -1,7 +1,7 @@
 /* Colours */
 :root {
-    --md-accent-fg-color: #0094FF;
-    --md-primary-fg-color: #0094FF;
+    --md-accent-fg-color: #0D6EFD;
+    --md-primary-fg-color: #0D6EFD;
     --md-primary-fg-color--dark: #343b42;
 }
 
@@ -18,7 +18,7 @@
     }
 
     .md-nav--primary .md-nav__title a:hover {
-        color: #0094FF;
+        color: #0D6EFD;
     }
 }
 
@@ -40,7 +40,7 @@
 }
 
 .md-header a:is(:focus,:hover) {
-    color: #0094FF;
+    color: #0D6EFD;
 }
 
 /* Primary navigation */
@@ -51,7 +51,7 @@
 }
 
 .md-tabs a:is(:focus,:hover) {
-    color: #0094FF;
+    color: #0D6EFD;
 }
 
 /* Images: Reduce max width to 95% of container width */
@@ -83,7 +83,7 @@
 }
 
 .md-footer__inner a:is(:focus,:hover) {
-    color: #0094FF;
+    color: #0D6EFD;
 }
 
 .md-footer-meta {
@@ -91,7 +91,7 @@
 }
 
 .md-footer-meta a:is(:focus,:hover) {
-    color: #0094FF  !important;
+    color: #0D6EFD  !important;
 }
 
 .md-ellipsis {
