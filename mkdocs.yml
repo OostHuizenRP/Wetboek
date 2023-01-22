@@ -1,16 +1,17 @@
-site_name: Wetboek Oosthuizen
+site_name: Oosthuizen Wetboek
 site_url: https://apv.oosthuizenrp.com/
 site_description: Wetboek van Oosthuizen
 repo_url: https://github.com/OosthuizenRP/Wetboek
 repo_name: OosthuizenRP/Wetboek
 edit_uri: ""
 
-copyright: Copyright &copy; 2022 <a target="_blank" href="https://oosthuizenrp.com/" target="_blank" rel="noopener">OosthuizenRP • <a href="#__consent">Verander cookie consent</a></a>
+copyright: Copyright &copy; 2023 <a target="_blank" href="https://oosthuizenrp.com/" target="_blank" rel="noopener">OosthuizenRP • <a href="#__consent">Verander cookie consent</a></a>
 
 theme:
   name: material
   logo: assets/logos/ohlogo.png
   favicon: assets/logos/ohlogo.png
+  custom_dir: docs/overrides
   font:
     text: Montserrat
   icon:
@@ -30,7 +31,7 @@ theme:
     - toc.integrate
     - content.tabs.link
     #- announce.dismiss // Disabled atm
-plugins: # REMOVE THIS I MURDER UR ASS. #LOOK THE TERMINAL
+plugins:
 - search
 - minify:
     minify_html: true
