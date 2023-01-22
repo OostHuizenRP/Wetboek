@@ -254,6 +254,7 @@ Het gebruik van vuurwapens door de politie is in de volgende scenario's toegesta
 - Een Huiszoeking mag op het moment dat er geschoten is bij appartementen.  
 
 ## Artikel 24: Corruptie (Straf-categorie: 5)
+Whitelist banen die via Tickets zijn aangevraagt mogen geen corruptie doen
 
 Het corrupt zijn bij een overheid baan is niet toegestaan  
 
