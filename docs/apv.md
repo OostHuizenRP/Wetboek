@@ -69,6 +69,12 @@ Enkele voorbeelden van Powergamen:
 - Het toepassen van emoties, zoals F5, is niet toegestaan wanneer je beschoten wordt --> emote abuse.  
 - Het in F5 liggen achter een muur om dan wel in thirt person te kunnen kijken en niet op te vallen.
 
+## Artikel 5a: Greenzones (Straf-categorie: 1)
+- Blokkenpark
+- Ziekenhuis
+- Wegenwacht
+- Gemeentehuis 
+
 ## Artikel 6: Copbaiten (Straf-categorie: 1)
 
 Hieronder wordt verstaan:
@@ -125,9 +131,10 @@ Het gebruiken van informatie vanuit streamers/content creators van welk platform
 
 Je mag pas een van de onderstaande overheid medewerkers ontvoeren vanaf aantal agenten online.  
 
-- Het ontvoeren van Politie agenten kan pas vanaf **5 agenten**  
+- Het ontvoeren van Politie agenten kan pas vanaf **6 agenten**  
 - Het ontvoeren van Ambulance is **niet** toegestaan.  
-- Het ontvoeren van ANWB mag pas vanaf **4+ agenten**
+- Het ontvoeren van ANWB is **niet** toegestaan.
+- Burger ontvoeren mag Vanaf 4+
 
 ## Artikel 15: Rippen (Straf-categorie: 1)
 
