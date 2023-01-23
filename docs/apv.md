@@ -70,10 +70,11 @@ Enkele voorbeelden van Powergamen:
 - Het in F5 liggen achter een muur om dan wel in thirt person te kunnen kijken en niet op te vallen.
 
 ## Artikel 5a: Greenzones (Straf-categorie: 7)
+
 - Blokkenpark
 - Ziekenhuis
 - Wegenwacht
-- Gemeentehuis 
+- Gemeentehuis
 
 ## Artikel 6: Copbaiten (Straf-categorie: 1)
 
@@ -210,6 +211,8 @@ Het ontvoeren van burgers is toegestaan vanaf minimaal 3 politie/ in dienst.
 Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen FiveM) mag niet gebruikt worden door het karakter.  
 Het is verplicht om jezelf te dempen op discord.
 
+- Screensharen via discord is ook niet toegestaan.
+
 ## Artikel 20: Combatloggen (Straf-categorie: 4)
 
 Het is verboden om tijdens een scenario het spel af te sluiten en of te verlaten.  
@@ -254,6 +257,7 @@ Het gebruik van vuurwapens door de politie is in de volgende scenario's toegesta
 - Een Huiszoeking mag op het moment dat er geschoten is bij appartementen.  
 
 ## Artikel 24: Corruptie (Straf-categorie: 5)
+
 Whitelist banen die via Tickets zijn aangevraagt mogen geen corruptie doen
 
 Het corrupt zijn bij een overheid baan is niet toegestaan  
