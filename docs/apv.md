@@ -69,7 +69,7 @@ Enkele voorbeelden van Powergamen:
 - Het toepassen van emoties, zoals F5, is niet toegestaan wanneer je beschoten wordt --> emote abuse.  
 - Het in F5 liggen achter een muur om dan wel in thirt person te kunnen kijken en niet op te vallen.
 
-## Artikel 5a: Greenzones (Straf-categorie: 1)
+## Artikel 5a: Greenzones (Straf-categorie: 7)
 - Blokkenpark
 - Ziekenhuis
 - Wegenwacht
