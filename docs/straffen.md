@@ -18,9 +18,9 @@ In onze APV staat bij elke artikel aangegeven welke straf categorie erbij hoort.
 
 **Categorie 5** — Ban van 2 weken.
 
-**Categorie 6** — Ban van 3 weken.
+**Categorie 6** — Ban van 4 weken.
 
-**Categorie 7** — Ban van 1 maand.
+**Categorie 7** — Ban van 1,5 maand.
 
 **Categorie 8** — Account-wipe (Vanaf 0 beginnen).
 
