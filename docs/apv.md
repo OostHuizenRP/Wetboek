@@ -136,6 +136,12 @@ Je mag pas een van de onderstaande overheid medewerkers ontvoeren vanaf aantal a
 - Het ontvoeren van ANWB is **niet** toegestaan.
 - Burger ontvoeren mag Vanaf 4+
 
+## Artikel 14.A: Criminele activiteiten (Straf-categorie: 8)
+- Scammen met voertuigen is niet toegetsaan. (Acountwipe)
+- Scammen op onderwereld zaken bv wapens, Locaties, items, is toegestaan tot een bedrag van 250k
+- scammen op bovenwereld zaken is niet toegestaan (Accountwipe)
+scammen op (uwv) banen is niet toegestaan. (Accountwipe)
+
 ## Artikel 15: Rippen (Straf-categorie: 1)
 
 Hieronder staat goed aangegeven vanaf wanneer je mag rippen.
