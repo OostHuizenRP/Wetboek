@@ -69,6 +69,13 @@ Enkele voorbeelden van Powergamen:
 - Het toepassen van emoties, zoals F5, is niet toegestaan wanneer je beschoten wordt --> emote abuse.  
 - Het in F5 liggen achter een muur om dan wel in thirt person te kunnen kijken en niet op te vallen.
 
+## Artikel 5a: Greenzones (Straf-categorie: 7)
+
+- Blokkenpark
+- Ziekenhuis
+- Wegenwacht
+- Gemeentehuis
+
 ## Artikel 6: Copbaiten (Straf-categorie: 1)
 
 Hieronder wordt verstaan:
@@ -125,9 +132,16 @@ Het gebruiken van informatie vanuit streamers/content creators van welk platform
 
 Je mag pas een van de onderstaande overheid medewerkers ontvoeren vanaf aantal agenten online.  
 
-- Het ontvoeren van Politie agenten kan pas vanaf **5 agenten**  
+- Het ontvoeren van Politie agenten kan pas vanaf **6 agenten**  
 - Het ontvoeren van Ambulance is **niet** toegestaan.  
-- Het ontvoeren van ANWB mag pas vanaf **4+ agenten**
+- Het ontvoeren van ANWB is **niet** toegestaan.
+- Burger ontvoeren mag Vanaf 4+
+
+## Artikel 14.A: Criminele activiteiten (Straf-categorie: 8)
+- Scammen met voertuigen is niet toegetsaan. (Acountwipe)
+- Scammen op onderwereld zaken bv wapens, Locaties, items, is toegestaan tot een bedrag van 250k
+- scammen op bovenwereld zaken is niet toegestaan (Accountwipe)
+scammen op (uwv) banen is niet toegestaan. (Accountwipe)
 
 ## Artikel 15: Rippen (Straf-categorie: 1)
 
@@ -203,6 +217,8 @@ Het ontvoeren van burgers is toegestaan vanaf minimaal 3 politie/ in dienst.
 Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen FiveM) mag niet gebruikt worden door het karakter.  
 Het is verplicht om jezelf te dempen op discord.
 
+- Screensharen via discord is ook niet toegestaan.
+
 ## Artikel 20: Combatloggen (Straf-categorie: 4)
 
 Het is verboden om tijdens een scenario het spel af te sluiten en of te verlaten.  
@@ -247,6 +263,8 @@ Het gebruik van vuurwapens door de politie is in de volgende scenario's toegesta
 - Een Huiszoeking mag op het moment dat er geschoten is bij appartementen.  
 
 ## Artikel 24: Corruptie (Straf-categorie: 5)
+
+Whitelist banen die via Tickets zijn aangevraagt mogen geen corruptie doen
 
 Het corrupt zijn bij een overheid baan is niet toegestaan  
 
