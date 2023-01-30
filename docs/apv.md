@@ -30,6 +30,9 @@ Het ‘doxen’ of 'ddossen' van burgers en/of staff leden is verboden
 
 Onder fail roleplay vallen alle facetten die als een onrealistische situatie kunnen worden ervaren.  
 Een ieder dient zich tijdens het roleplayen het volgende af te vragen: "Zou dit in het echt ook op deze manier kunnen gebeuren".
+- Schieten boven 100  is niet toegestaan 
+
+- een anwb medewerker mag niet in dienst vermoord worden.
 
 Enkele voorbeelden van Fail RP:  
 
@@ -69,12 +72,7 @@ Enkele voorbeelden van Powergamen:
 - Het toepassen van emoties, zoals F5, is niet toegestaan wanneer je beschoten wordt --> emote abuse.  
 - Het in F5 liggen achter een muur om dan wel in thirt person te kunnen kijken en niet op te vallen.
 
-## Artikel 5a: Greenzones (Straf-categorie: 7)
 
-- Blokkenpark
-- Ziekenhuis
-- Wegenwacht
-- Gemeentehuis
 
 ## Artikel 6: Copbaiten (Straf-categorie: 1)
 
@@ -231,8 +229,8 @@ Indien echt niet anders kan, en persoon moet echt vertrekken, moet dit overlegd 
 Het is niet toegestaan om iemand te reviven als de desbetreffende persoon:
 
 - Niet meer aanspreekbaar is;
-- Minder dan 20% bloed heeft;
-- Een hartslag onder de 20 bpm heeft;
+- Minder dan 5% bloed heeft;
+- Een hartslag onder de 5% bpm heeft;
 - Is neergeschoten, gestoken, geknuppeld of geslagen met een boksbeugel. Bij deze regel maakt het niet uit of ze voldoende bloed/hartslag hebben;
 - Aangeeft dat diegene dood is door RDM, VDM, FailRP, bugs etc. Hierbij moet de persoon in kwestie een report aan.  
 
@@ -280,8 +278,7 @@ Het corrupt zijn bij een overheid baan is niet toegestaan
 ## Artikel 26: Onderwereld Coördinator (Straf-categorie: 5)
 
 Een onderwereld coördinator mag niet lid zijn van een gang.  
-Wapens in kopen doe je bij de onderwereld coördinator.  
-Onderwereld coördinator mag niet ontvoert worden, en moet {Families} op hun id hebben.  
+Wapens in kopen doe je bij de onderwereld coördinator.    
 
 ## Artikel 27: ID kaart (Straf-categorie: 10)
 
