@@ -1,5 +1,5 @@
 ---
-description: Straffen bij Oosthuizen Roleplay
+description: Straffen bij OostHuizen Roleplay
 ---
 
 # Straffen
@@ -24,6 +24,6 @@ In onze APV staat bij elke artikel aangegeven welke straf categorie erbij hoort.
 
 **Categorie 8** — Account-wipe (Vanaf 0 beginnen).
 
-**Categorie 9** — Permanente ban van Oosthuizen.
+**Categorie 9** — Permanente ban van OostHuizen.
 
 **Categorie 10** — Op gesprek komen bij beheer.
