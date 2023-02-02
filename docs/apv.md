@@ -30,16 +30,12 @@ Het ‘doxen’ of 'ddossen' van burgers en/of staff leden is verboden
 
 Onder fail roleplay vallen alle facetten die als een onrealistische situatie kunnen worden ervaren.  
 Een ieder dient zich tijdens het roleplayen het volgende af te vragen: "Zou dit in het echt ook op deze manier kunnen gebeuren".
-<<<<<<< HEAD
-- Schieten boven 100  is niet toegestaan 
-- Praten Als je dood bent.
-
-- een anwb medewerker mag niet in dienst vermoord worden.
-=======
->>>>>>> 114b8227626e155c94628fd1281af963edd4bd5e
 
 Enkele voorbeelden van Fail RP:  
 
+- Schieten boven 100 is niet toegestaan.  
+- Praten Als je dood bent.  
+- een anwb medewerker mag niet in dienst vermoord worden.  
 - Het roleplay scenario vermijden tijdens ernstige verwondingen en aanrijdingen met andere burgers en ambulance.  
 - Het doelbewust meermaals inklikken van de porto wanneer een wapen op je gericht staat.  
 - Ongepast emotes spammen.  
@@ -47,7 +43,7 @@ Enkele voorbeelden van Fail RP:
 - Geen roleplay aangaan in situaties waarbij je (ernstig) gewond bent.  
 - Onjuist gebruik maken van een F6 menu tijdens scenario’s.  
 - Iemand vastbinden in /me zonder in het bezit te zijn van een wapen.  
-- Schieten boven **100 km/h** is niet toegestaan 
+- Schieten boven **100 km/h** is niet toegestaan.  
 - Een anwb medewerker mag niet in dienst vermoord worden.
 - Het stelen van een voertuig is toegestaan wanneer deze onbemand achter is gelaten langs de weg.  
 - Het stelen van een voertuig is niet toegestaan wanneer iemand bezig is met zijn voertuig. Dit zal bestraft worden met een straf uit de 3de categorie.  
@@ -150,17 +146,17 @@ scammen op (uwv) banen is niet toegestaan. (Accountwipe)
 
 Hieronder staat goed aangegeven vanaf wanneer je mag rippen.
 
-- Het is toegestaan om burgers te rippen vanaf **3+ politie**.  
+- Het is toegestaan om burgers te rippen vanaf **3+ politie**. De burger moet dan wel een holster en/of masker dragen.  
 - Een wapen moet gezien zijn voor dat deze geript mag worden.  
-- Witwas busjes mogen geript worden zonder politie max 10k  
+- Witwas busjes mogen geript worden zonder politie, max **10k**  
 - Je kunt alleen iemand fouilleren wanneer je in bezit bent van een wapen.  
-- Bij het innemen van wapens dien je het wapen visueel gezien te hebben of als de persoon een masker, holster  dit wordt anders volgens categorie 4 gestraft.  
+- Bij het innemen van wapens dien je het wapen visueel gezien te hebben of als de persoon een masker, holster dit wordt anders volgens categorie 4 gestraft.  
 - Je mag geen kennis hebben van de illegale spullen die de persoon op zak heeft wanneer de persoon geen masker, holster aan heeft.  
 - Eiland rippen mag vanaf **3+ politie**
 
 ## Artikel 16: Overvallen op winkels en banken (Straf-categorie: 2)
 
-Bij een winkeloverval mag geen vuurwapen zijn
+Winkelovervallen:
 
 - De politie mag niet zomaar binnen vallen op een winkel
 - De politie moet een gelijkbaar voertuig pakken bij een winkel ov
@@ -168,7 +164,7 @@ Bij een winkeloverval mag geen vuurwapen zijn
 - De politie moet de hostages op vangen en fouilleren
 - Politie mag **geen** DSI inzetten bij een winkel overval
 
-Een bankoverval moet gestart worden met een vuurwapen
+Bankovervallen:
 
 - De overvallers moeten 2 schoten lossen bij het starten van de ov
 - De onderhandelaar moet de hostage kunnen zien
@@ -219,7 +215,7 @@ Het ontvoeren van burgers is toegestaan vanaf minimaal 3 politie/ in dienst.
 
 - Een agent mag pas ontvoerd worden vanaf 5 agent/kmar. Er moeten dus altijd 3 andere agenten in dienst zijn voordat je 1 agent mag ontvoeren.  
 - Een persoon mag je maximaal 30 minuten ontvoeren.  
-- Massa gijzeling mogen met eenz eer goed scenario! 
+- Massa gijzeling mogen met een zeer goed scenario!  
 
 ## Artikel 19: Metagaming (Straf-categorie: 4)
 
