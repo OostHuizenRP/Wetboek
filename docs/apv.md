@@ -1,5 +1,5 @@
 ---
-description: APV Oosthuizen Roleplay
+description: APV OostHuizen Roleplay
 ---
 # Algemene Plaatselijke Verordening
 
@@ -30,10 +30,13 @@ Het ‘doxen’ of 'ddossen' van burgers en/of staff leden is verboden
 
 Onder fail roleplay vallen alle facetten die als een onrealistische situatie kunnen worden ervaren.  
 Een ieder dient zich tijdens het roleplayen het volgende af te vragen: "Zou dit in het echt ook op deze manier kunnen gebeuren".
+<<<<<<< HEAD
 - Schieten boven 100  is niet toegestaan 
 - Praten Als je dood bent.
 
 - een anwb medewerker mag niet in dienst vermoord worden.
+=======
+>>>>>>> 114b8227626e155c94628fd1281af963edd4bd5e
 
 Enkele voorbeelden van Fail RP:  
 
@@ -44,6 +47,8 @@ Enkele voorbeelden van Fail RP:
 - Geen roleplay aangaan in situaties waarbij je (ernstig) gewond bent.  
 - Onjuist gebruik maken van een F6 menu tijdens scenario’s.  
 - Iemand vastbinden in /me zonder in het bezit te zijn van een wapen.  
+- Schieten boven **100 km/h** is niet toegestaan 
+- Een anwb medewerker mag niet in dienst vermoord worden.
 - Het stelen van een voertuig is toegestaan wanneer deze onbemand achter is gelaten langs de weg.  
 - Het stelen van een voertuig is niet toegestaan wanneer iemand bezig is met zijn voertuig. Dit zal bestraft worden met een straf uit de 3de categorie.  
 Inladen  
@@ -72,12 +77,6 @@ Enkele voorbeelden van Powergamen:
 - Een speler meenemen naar het eiland om hem daar te doden, met de intentie om de RDM regel te vermijden.  
 - Het toepassen van emoties, zoals F5, is niet toegestaan wanneer je beschoten wordt --> emote abuse.  
 - Het in F5 liggen achter een muur om dan wel in thirt person te kunnen kijken en niet op te vallen.
-
-<<<<<<< HEAD
-=======
-### Artikel 5a: Greenzones (Straf-categorie: 7)
->>>>>>> dd6059b19fad962a1b2c6a914a1b7a75fbbcdb56
-
 
 ## Artikel 6: Copbaiten (Straf-categorie: 1)
 
@@ -167,7 +166,7 @@ Bij een winkeloverval mag geen vuurwapen zijn
 - De politie moet een gelijkbaar voertuig pakken bij een winkel ov
 - De politie mag verplichten om te switchen van voertuig
 - De politie moet de hostages op vangen en fouilleren
-- Politie mag **geen** DSI inzetten bij een bank overval
+- Politie mag **geen** DSI inzetten bij een winkel overval
 
 Een bankoverval moet gestart worden met een vuurwapen
 
@@ -178,10 +177,16 @@ Een bankoverval moet gestart worden met een vuurwapen
 
 ## Artikel 17: Onderwereld Spelers (Straf-categorie: 3)
 
-Het gratis weg geven van wapens is niet toegestaan (1 maand ban +account wipe voor bijde personen )
+Het gratis weg geven van wapens is niet toegestaan (1 maand ban + account wipe voor beide personen )
 drugs locaties mogen niet gratis gegeven worden
 Het is toegestaan om in je groep max 3 staff leden te hebben.
-Rippen - Op het eiland is geen limiet qua rippen dit valt onder geld/zwartgeld als voor items zoals cocaine bladeren etc - Ieder wapen mag ieder wapen rippen. Je mag diegene daarna doodschieten. - Kom je wapens tegen met het fouilleren mag je deze afpakken (eigen risico van het meenemen op het eiland). - Campen van locaties is niet toegestaan.
+
+Rippen  
+
+- Op het eiland is geen limiet qua rippen dit valt onder geld/zwartgeld als voor items zoals cocaine bladeren etc  
+- Ieder wapen mag ieder wapen rippen. Je mag diegene daarna doodschieten.  
+- Kom je wapens tegen met het fouilleren mag je deze afpakken (eigen risico van het meenemen op het eiland).  
+- Campen van locaties is niet toegestaan.  
 
 RDM regel (op het eiland)  
 
@@ -281,16 +286,11 @@ Het corrupt zijn bij een overheid baan is niet toegestaan
 - Abuse ticket word behandel door management/beheer  
 - Onderwereld ticket komen in de onderwereld.  
 
-## Artikel 26: Onderwereld Coördinator (Straf-categorie: 5)
-
-Een onderwereld coördinator mag niet lid zijn van een gang.  
-Wapens in kopen doe je bij de onderwereld coördinator.    
-
-## Artikel 27: ID kaart (Straf-categorie: 10)
+## Artikel 26: ID kaart (Straf-categorie: 10)
 
 Als je in een gang zit ben jij verplicht om jou gang/groep naam op jou ID te zetten.
 
-## Artikel 28: Externe Discord (Straf-categorie: 10)
+## Artikel 27: Externe Discord (Straf-categorie: 10)
 
 Het hebben van een externe discord server is toegestaan als je toestemming hebt van management/beheer hebt.  
 Er zal minstens 1 stafflid (beheer of management) de permissie "Administrator" dan moeten hebben.
