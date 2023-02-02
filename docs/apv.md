@@ -31,6 +31,7 @@ Het ‘doxen’ of 'ddossen' van burgers en/of staff leden is verboden
 Onder fail roleplay vallen alle facetten die als een onrealistische situatie kunnen worden ervaren.  
 Een ieder dient zich tijdens het roleplayen het volgende af te vragen: "Zou dit in het echt ook op deze manier kunnen gebeuren".
 - Schieten boven 100  is niet toegestaan 
+- Praten Als je dood bent.
 
 - een anwb medewerker mag niet in dienst vermoord worden.
 
@@ -213,7 +214,7 @@ Het ontvoeren van burgers is toegestaan vanaf minimaal 3 politie/ in dienst.
 
 - Een agent mag pas ontvoerd worden vanaf 5 agent/kmar. Er moeten dus altijd 3 andere agenten in dienst zijn voordat je 1 agent mag ontvoeren.  
 - Een persoon mag je maximaal 30 minuten ontvoeren.  
-- Massa gijzeling moeten worden aangevraagd  
+- Massa gijzeling mogen met eenz eer goed scenario! 
 
 ## Artikel 19: Metagaming (Straf-categorie: 4)
 
