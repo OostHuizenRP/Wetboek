@@ -4,11 +4,11 @@ description: Dreigingsniveau's
 
 # Dreigingniveaus
 
-!!! warning "De active dreigingsniveau op Oosthuizen Roleplay."
-**1 - Minimaal**  
-Er is bijna geen aanwezigheid van nationale en internationale terroristische netwerken en het is niet waarschijnlijk dat terroristen aanslagen in Nederland beramen.
+!!! warning "De active dreigingsniveau op OostHuizen Roleplay."
+**2 - Beperkt**  
+Nederland komt niet of nauwelijks voor in verklaringen van serieus te nemen terroristische organisaties.  
 
-!!! warning "Alle dreiginingsniveaus binnen Oosthuizen Roleplay."
+!!! warning "Alle dreiginingsniveaus binnen OostHuizen Roleplay."
 
 **1 - Minimaal**  
 Er is bijna geen aanwezigheid van nationale en internationale terroristische netwerken en het is niet waarschijnlijk dat terroristen aanslagen in Nederland beramen.  
