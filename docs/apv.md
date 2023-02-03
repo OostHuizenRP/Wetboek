@@ -146,7 +146,8 @@ scammen op (uwv) banen is niet toegestaan. (Accountwipe)
 
 Hieronder staat goed aangegeven vanaf wanneer je mag rippen.
 
-- Het is toegestaan om burgers te rippen vanaf **3+ politie**. De burger moet dan wel een holster en/of masker dragen.  
+- Het is toegestaan om burgers te rippen vanaf **3+ politie**.  
+De burger moet dan wel een holster en/of masker dragen.  
 - Een wapen moet gezien zijn voor dat deze geript mag worden.  
 - Witwas busjes mogen geript worden zonder politie, max **10k**  
 - Je kunt alleen iemand fouilleren wanneer je in bezit bent van een wapen.  
