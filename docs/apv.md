@@ -270,9 +270,10 @@ Het gebruik van vuurwapens door de politie is in de volgende scenario's toegesta
 
 ## Artikel 24: Corruptie (Straf-categorie: 5)
 
-Whitelist banen die via Tickets zijn aangevraagt mogen geen corruptie doen
+Whitelisted banen die via tickets zijn aangevraagt mogen geen corruptie doen.
+Het corrupt zijn bij een overheid baan is niet toegestaan.  
 
-Het corrupt zijn bij een overheid baan is niet toegestaan  
+Het doen van illegale activiteiten bij de cardealer is niet toegestaan (in bezit zijn van wapens, overvallen plegen)
 
 ## Artikel 25: Tickets (Straf-categorie: 5)
 
