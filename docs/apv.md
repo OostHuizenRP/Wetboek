@@ -174,8 +174,9 @@ Bankovervallen:
 
 ## Artikel 17: Onderwereld Spelers (Straf-categorie: 3)
 
-Het gratis weg geven van wapens is niet toegestaan (1 maand ban + account wipe voor beide personen )
-drugs locaties mogen niet gratis gegeven worden
+Het gratis weg geven van wapens is niet toegestaan (1 maand ban + account wipe voor beide personen)  
+Leden van Imperium mogen niet ontvoert worden dit moet ook op ID kaart staan.  
+Drugs locaties mogen niet gratis gegeven worden.
 Het is toegestaan om in je groep max 3 staff leden te hebben.
 
 Rippen  
