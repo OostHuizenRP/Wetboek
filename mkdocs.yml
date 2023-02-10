@@ -50,7 +50,6 @@ extra_css:
 - assets/stylesheets/custom.css
 
 extra:
-  generator: false
   consent:
     title: Koekjes beleid
     actions:
@@ -59,8 +58,8 @@ extra:
     description: >-
        We gebruiken cookies om ook uw herhaalde bezoeken en voorkeuren te herkennen
        om de effectiviteit van onze documentatie te meten en of gebruikers
-       vinden waarnaar ze op zoek zijn. Met uw toestemming helpt u ons om
-       onze documentatie beter te maken. 
+       vinden waarnaar ze op zoek zijn. Met uw toestemming helpt u ons daarbij
+       onze documentatie beter maken.
 
 nav:
   - Home: index.md

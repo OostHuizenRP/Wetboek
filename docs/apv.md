@@ -6,7 +6,9 @@ description: APV OostHuizen Roleplay
 ## Artikel 1: Cheats (Straf-categorie: 9)
 
 Het gebruik maken van software/hulpmiddelen van derde partijen om een voordeel in het spel te krijgen, denk aan (combatpacks, (extern) crosshair) is niet toegestaan.
-Onder cheats vallen externe programma’s, zoals hack clients (Eulen, Kekhack, etc)
+Onder cheats vallen externe programma’s, zoals hack clients (Eulen, Kekhack, etc)  
+
+Het veranderen van je scherm in FiveM oftewel '**Aspect Ratio**' zodat jij een voordeel krijgt tegen andere met schieten bijvoorbeeld is niet toegestaan.
 
 ## Artikel 2: Bugs (Straf-categorie: 9)
 
@@ -33,13 +35,10 @@ Een ieder dient zich tijdens het roleplayen het volgende af te vragen: "Zou dit 
 
 Enkele voorbeelden van Fail RP:  
 
-- Schieten boven 100 is niet toegestaan.  
-- Praten Als je dood bent.  
-- een anwb medewerker mag niet in dienst vermoord worden.  
+- Praten als je dood bent.  
 - Het roleplay scenario vermijden tijdens ernstige verwondingen en aanrijdingen met andere burgers en ambulance.  
 - Het doelbewust meermaals inklikken van de porto wanneer een wapen op je gericht staat.  
 - Ongepast emotes spammen.  
-- Praten in de porto of bellen onder water.  
 - Geen roleplay aangaan in situaties waarbij je (ernstig) gewond bent.  
 - Onjuist gebruik maken van een F6 menu tijdens scenario’s.  
 - Iemand vastbinden in /me zonder in het bezit te zijn van een wapen.  
@@ -69,10 +68,10 @@ Enkele voorbeelden van Powergamen:
 
 - Het vluchten in je appartement tijdens een scenario.  
 - Ongeacht de situatie binnen 10 minuten na het trekken van je wapen je wapen wegleggen.  
-- Gebruik maken van het DEL menu waarbij ID's worden getoond om spelers te vinden.  
+- Gebruik maken van het ~ menu waarbij ID's worden getoond om spelers te vinden.  
 - Een speler meenemen naar het eiland om hem daar te doden, met de intentie om de RDM regel te vermijden.  
-- Het toepassen van emoties, zoals F5, is niet toegestaan wanneer je beschoten wordt --> emote abuse.  
-- Het in F5 liggen achter een muur om dan wel in thirt person te kunnen kijken en niet op te vallen.
+- Het toepassen van emoties, zoals F4, is niet toegestaan wanneer je beschoten wordt --> emote abuse.  
+- Het in F4 liggen achter een muur om dan wel in thirt person te kunnen kijken en niet op te vallen.
 
 ## Artikel 6: Copbaiten (Straf-categorie: 1)
 
@@ -133,7 +132,7 @@ Je mag pas een van de onderstaande overheid medewerkers ontvoeren vanaf aantal a
 - Het ontvoeren van Politie agenten kan pas vanaf **6 agenten**  
 - Het ontvoeren van Ambulance is **niet** toegestaan.  
 - Het ontvoeren van ANWB is **niet** toegestaan.
-- Burger ontvoeren mag Vanaf 4+
+- Burgers ontvoeren mag pas vanaf **4+ agenten**.
 
 ### Artikel 14a: Criminele activiteiten (Straf-categorie: 8)
 

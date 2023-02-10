@@ -10,7 +10,6 @@ In het menu aan de linkerkant vind je alle verschillende documenten die gericht 
 Voordat je deel neemt aan OostHuizen, nemen we aan dat je de hele wetboek zorgvuldig hebt gelezen
 
 De Algemene Plaatselijke Verordening bevat alle regels die niet te maken hebben met de Roleplay (dit zijn zogezegd de "server regels").  
-Alle overige documenten zijn specifiek bedoeld voor bepaalde zaken (zoals een belastingdocument waar je kan opzoeken hoeveel de autobelasting is).
 
 ## Onze discord servers
 
