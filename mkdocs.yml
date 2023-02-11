@@ -5,7 +5,7 @@ repo_url: https://github.com/OostHuizenRP/Wetboek
 repo_name: OostHuizenRP/Wetboek
 edit_uri: ""
 
-copyright: Copyright &copy; 2023 <a target="_blank" href="https://oosthuizenrp.com/" target="_blank" rel="noopener">OosthuizenRP • <a href="#__consent">Verander cookie consent</a></a>
+copyright: Copyright &copy; 2023 <a target="_blank" href="https://oosthuizenrp.com/" target="_blank" rel="noopener">OostHuizenRP • <a href="#__consent">Verander cookie consent</a></a>
 
 theme:
   name: material
