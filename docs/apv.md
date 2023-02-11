@@ -136,10 +136,10 @@ Je mag pas een van de onderstaande overheid medewerkers ontvoeren vanaf aantal a
 
 ### Artikel 14a: Criminele activiteiten (Straf-categorie: 8)
 
-- Scammen met voertuigen is niet toegetsaan. (Acountwipe)
+- Scammen met voertuigen is niet toegestaan. (Accountwipe)
 - Scammen op onderwereld zaken bv wapens, Locaties, items, is toegestaan tot een bedrag van 250k
-- scammen op bovenwereld zaken is niet toegestaan (Accountwipe)
-scammen op (uwv) banen is niet toegestaan. (Accountwipe)
+- Scammen op bovenwereld zaken is niet toegestaan (Accountwipe)
+- Scammen op (uwv) banen is niet toegestaan. (Accountwipe)
 
 ## Artikel 15: Rippen (Straf-categorie: 1)
 
