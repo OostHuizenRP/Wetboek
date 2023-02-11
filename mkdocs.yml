@@ -66,6 +66,12 @@ nav:
   - Straffen: straffen.md
   - Algemene Plaatselijke Verordening: apv.md
   - Dreigingsniveau: dreigingsniveau.md
+  - Kosten:
+       - Ambulance: kosten/ambulance.md
+       - Politie: kosten/politie.md
+       - ANWB: kosten/anwb.md
+       - Advocaat: kosten/advocaat.md
+       - Taxi: kosten/taxi.md       
 
 markdown_extensions:
 - markdown.extensions.admonition
