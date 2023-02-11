@@ -4,4 +4,9 @@ description: Ambulance Kosten
 
 # Ambulance Kosten
 
-Deze kosten worden op dit moment nog overlegd. De APV zal hierdan ook op bijgewerkt worden.
+Voor de ambulance moet je ook altijd betalen, als je geholpen bent of niet.  
+Ambulance brengt ook kosten met zich mee. Hieronder zie je een lijst van de kosten.  
+
+| Beschrijving | Boete |
+|--|--|
+| Momenteel geen losse kosten | €0,- |
