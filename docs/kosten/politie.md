@@ -7,6 +7,8 @@ description: Politie Kosten / Boetes
 Wij handeren via verschillende boetes en manieren bij de politie.  
 Hieronder kunt u een lijst vindt van de boetes en andere dingen.
 
+Verkeers Boetes
+
 | Beschrijving | Boete |
 |--|--|
 | Onnodig claxoneren | €90,- |
@@ -24,11 +26,9 @@ Hieronder kunt u een lijst vindt van de boetes en andere dingen.
 | Snelheid overtreding 20 - 50km | €670,- |
 | Snelheid overtreding > 50km | €1000,- |
 | Vluchten voor de politie | €420,- |
-| Poging tot doodslag op een ambtenaar | €3200,- |
-| Poging tot doodslag op een burger | €3200,- |
-| Poging tot doodslag op een overheids medewerker | €3200,- |
 
-## Categorie 1
+Categorie 1
+
 | Beschrijving | Boete |
 |--|--|
 | Openbare dronkenschap | €415,- |
@@ -37,13 +37,18 @@ Hieronder kunt u een lijst vindt van de boetes en andere dingen.
 | Belediging ambtenaar in functie | €200,- |
 | Bedreiging | €980,- |
 
-## Categorie 2
+Categorie 2
+
 | Beschrijving | Boete |
 |--|--|
 | Illegaal wapen bezit | €2300,- |
 | Illegaal drugs bezit | €400,- |
+| Poging tot doodslag op een ambtenaar | €3200,- |
+| Poging tot doodslag op een burger | €3200,- |
+| Poging tot doodslag op een overheids medewerker | €3200,- |
 
-## Categorie 3
+Categorie 3
+
 | Beschrijving | Boete |
 |--|--|
 | Drugshandel | €3000,- |
