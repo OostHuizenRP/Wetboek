@@ -137,7 +137,7 @@ Je mag pas een van de onderstaande overheid medewerkers ontvoeren vanaf aantal a
 ### Artikel 14a: Criminele activiteiten (Straf-categorie: 8)
 
 - Scammen met voertuigen is niet toegestaan. (Accountwipe)
-- Scammen op onderwereld zaken bv wapens, Locaties, items, is toegestaan tot een bedrag van 250k
+- Scammen op onderwereld zaken bv wapens, Locaties, items, is toegestaan tot een bedrag van 100 Miljeoen
 - Scammen op bovenwereld zaken is niet toegestaan (Accountwipe)
 - Scammen op (uwv) banen is niet toegestaan. (Accountwipe)
 
@@ -212,7 +212,7 @@ Gangwarn (Onofficiële gang)
 
 ## Artikel 18: Ontvoeren (Straf-categorie: 1)
 
-Het ontvoeren van burgers is toegestaan vanaf minimaal 3 politie/ in dienst.
+Het ontvoeren van burgers is toegestaan vanaf minimaal 2 politie/ in dienst.
 
 - Een agent mag pas ontvoerd worden vanaf 5 agent/kmar. Er moeten dus altijd 3 andere agenten in dienst zijn voordat je 1 agent mag ontvoeren.  
 - Een persoon mag je maximaal 30 minuten ontvoeren.  
