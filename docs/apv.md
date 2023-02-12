@@ -137,7 +137,7 @@ Je mag pas een van de onderstaande overheid medewerkers ontvoeren vanaf aantal a
 ### Artikel 14a: Criminele activiteiten (Straf-categorie: 8)
 
 - Scammen met voertuigen is niet toegestaan. (Accountwipe)
-- Scammen op onderwereld zaken bv wapens, Locaties, items, is toegestaan tot een bedrag van 100 Miljeoen
+- Scammen op onderwereld zaken bv wapens, Locaties, items, is toegestaan tot een bedrag van 100 miljoen.
 - Scammen op bovenwereld zaken is niet toegestaan (Accountwipe)
 - Scammen op (uwv) banen is niet toegestaan. (Accountwipe)
 
@@ -214,7 +214,7 @@ Gangwarn (Onofficiële gang)
 
 Het ontvoeren van burgers is toegestaan vanaf minimaal 2 politie/ in dienst.
 
-- Een agent mag pas ontvoerd worden vanaf 5 agent/kmar. Er moeten dus altijd 3 andere agenten in dienst zijn voordat je 1 agent mag ontvoeren.  
+- Een agent mag pas ontvoerd worden vanaf 5 agent. Er moeten dus altijd 3 andere agenten in dienst zijn voordat je 1 agent mag ontvoeren.  
 - Een persoon mag je maximaal 30 minuten ontvoeren.  
 - Massa gijzeling mogen met een zeer goed scenario!  
 
@@ -253,9 +253,9 @@ Een advocaat mag niet samen werken met een onderwereld persoon om persoon uit te
 Een advocaat moet betaald worden om een persoon vrij te krijgen.  
 Een advocaat mag geen zelfde achternaam als de persoon in de cell hebben.  
 
-## Artikel 23: Politie/KMAR (Straf-categorie: 2)
+## Artikel 23: Politie (Straf-categorie: 2)
 
-Bij een winkeloverval bepaald de OvD wat de inzet qua politie/kmar zal zijn, wanneer geen OvD aanwezig is zal de hoogste aanwezig binnen het korps dit op zich nemen.  
+Bij een winkeloverval bepaald de OvD wat de inzet qua politie zal zijn, wanneer geen OvD aanwezig is zal de hoogste aanwezig binnen het korps dit op zich nemen.  
 Bij een winkel overval mag er geen dsi aanwezig zijn.  
 
 KCT mag pas binennvallen als dit is besloten door hogerhand.  
@@ -263,7 +263,7 @@ KCT mag pas binennvallen als dit is besloten door hogerhand.
 Het gebruik van vuurwapens door de politie is in de volgende scenario's toegestaan:  
 
 - De verdachte vuurwapen gevaarlijk of mogelijk gevaarlijk is.  
-- Een collega of burger in gevaar is, let op! een politie/kmar agent is ten alle tijden verplicht eerst andere middelen in te zetten tenzij niet anders kan, tevens is een verbale waarschuwing verplicht naar de verdachte(n) toe dat er vuurwapens gericht zijn en deze gebruikt zullen worden indien de verdachte(n) zijn/haar wapen trekt of omstanders  
+- Een collega of burger in gevaar is, let op! een politie agent is ten alle tijden verplicht eerst andere middelen in te zetten tenzij niet anders kan, tevens is een verbale waarschuwing verplicht naar de verdachte(n) toe dat er vuurwapens gericht zijn en deze gebruikt zullen worden indien de verdachte(n) zijn/haar wapen trekt of omstanders  
 - Het pitten door de politie is toegestaan mits het onder de 100 KM/H is  
 - Zware wapens mogen enkel door de daarvoor opgeleiden eenheden gebruikt worden.  
 - Een Huiszoeking mag op het moment dat er geschoten is bij appartementen.  
