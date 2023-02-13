@@ -5,8 +5,8 @@ description: Dreigingsniveau's
 # Dreigingniveaus
 
 !!! warning "De active dreigingsniveau op OostHuizen Roleplay."
-**2 - Beperkt**  
-Nederland komt niet of nauwelijks voor in verklaringen van serieus te nemen terroristische organisaties.  
+**4 - Kritiek**  
+Dit dreigingsniveau wordt in Nederland van kracht als er zeer sterke aanwijzingen zijn dat een aanslag in Nederland zal plaatsvinden. Nederland wordt bijvoorbeeld vaak genoemd in verklaringen van terroristische organisaties en zij hebben het voorzien op specifieke doelen.
 
 !!! warning "Alle dreiginingsniveaus binnen OostHuizen Roleplay."
 
