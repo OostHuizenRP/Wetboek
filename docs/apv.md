@@ -177,6 +177,7 @@ Het gratis weg geven van wapens is niet toegestaan (1 maand ban + account wipe v
 Leden van Imperium mogen niet ontvoert worden dit moet ook op ID kaart staan.  
 Drugs locaties mogen niet gratis gegeven worden.
 Het is toegestaan om in je groep max 3 staff leden te hebben.
+out side shooters bij winkel overval niet meer toegestaan 
 
 Rippen  
 
