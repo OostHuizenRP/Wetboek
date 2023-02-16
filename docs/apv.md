@@ -101,6 +101,8 @@ Een stafflid kan de keuze maken om afhankelijk van de mate van VDM af te wijken 
 
 Onder RDM wordt verstaan het willekeurig vermoorden van spelers zonder enige geldige reden. Geen geldige reden kan zijn: *Elkaar uit maken voor iets zoals sukkel, eikel, jij bent lelijk etc;* Iemand rijd perongeluk tegen je aan;
 
+Het onnodig vermoorden van Politie valt onder rdm
+
 ## Artikel 11: Voertuig gebruik (Straf-categorie: 1)
 
 Het pitten boven 120km/h is niet toegestaan.
@@ -232,7 +234,7 @@ Het is niet toegestaan om iemand te reviven als de desbetreffende persoon:
 - Niet meer aanspreekbaar is;
 - Minder dan 5% bloed heeft;
 - Een hartslag onder de 5% bpm heeft;
-- Is neergeschoten, gestoken, geknuppeld of geslagen met een boksbeugel. Bij deze regel maakt het niet uit of ze voldoende bloed/hartslag hebben;
+- Ambulance en poltiie mogen reanimeren als je bent dood geschoten/geslagen (Burgers mogen niet reanimeren als je bent neer geschoten/gestoken)
 - Aangeeft dat diegene dood is door RDM, VDM, FailRP, bugs etc. Hierbij moet de persoon in kwestie een report aan.  
 
 Het samenwerken met de onderwereld is niet toegestaan, dit valt onder corruptie.
