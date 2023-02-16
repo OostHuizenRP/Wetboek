@@ -177,7 +177,7 @@ Het gratis weg geven van wapens is niet toegestaan (1 maand ban + account wipe v
 Leden van Imperium mogen niet ontvoert worden dit moet ook op ID kaart staan.  
 Drugs locaties mogen niet gratis gegeven worden.
 Het is toegestaan om in je groep max 3 staff leden te hebben.
-out side shooters bij winkel overval niet meer toegestaan 
+Outside shooters bij winkel overval niet meer toegestaan  
 
 Rippen  
 
@@ -211,29 +211,21 @@ Gangwarn (Onofficiële gang)
 - Bij de 2e Gangwarn, Een ban voor alle personen die te maken hebben met die Warn + een 2e / laatste gesprek.
 - Bij de 3e Gangwarn zal de gang opgeheven worden en de kanalen verwijderd worden.
 
-## Artikel 18: Ontvoeren (Straf-categorie: 1)
-
-Het ontvoeren van burgers is toegestaan vanaf minimaal 2 politie/ in dienst.
-
-- Een agent mag pas ontvoerd worden vanaf 5 agent. Er moeten dus altijd 3 andere agenten in dienst zijn voordat je 1 agent mag ontvoeren.  
-- Een persoon mag je maximaal 30 minuten ontvoeren.  
-- Massa gijzeling mogen met een zeer goed scenario!  
-
-## Artikel 19: Metagaming (Straf-categorie: 4)
+## Artikel 18: Metagaming (Straf-categorie: 4)
 
 Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen FiveM) mag niet gebruikt worden door het karakter.  
 Het is verplicht om jezelf te dempen op discord.
 
 - Screensharen via discord is ook niet toegestaan.
 
-## Artikel 20: Combatloggen (Straf-categorie: 4)
+## Artikel 19: Combatloggen (Straf-categorie: 4)
 
 Het is verboden om tijdens een scenario het spel af te sluiten en of te verlaten.  
 Wanneer dit gebeurt heb je 5 minuten om terug te keren naar het scenario.  
 Wanneer men in een scenario zit dient men het scenario af te maken.  
 Indien echt niet anders kan, en persoon moet echt vertrekken, moet dit overlegd worden met de betrokkenen in dit scenario. Het verlaten van de stad, nadat je karakter overleden is wordt gezien als combatloggen.  
 
-## Artikel 21: Ambulance (Straf-categorie: 2)
+## Artikel 20: Ambulance (Straf-categorie: 2)
 
 Het is niet toegestaan om iemand te reviven als de desbetreffende persoon:
 
@@ -247,14 +239,14 @@ Het samenwerken met de onderwereld is niet toegestaan, dit valt onder corruptie.
 Het betaald krijgen om iemand te reviven is niet toegestaan, dit valt onder corruptie.
 Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 
-## Artikel 22: Advocaat (Straf-categorie: 2)
+## Artikel 21: Advocaat (Straf-categorie: 2)
 
 Een burger mag als advocaat op treden op het moment dat er geen officielen advocaten zijn.  
 Een advocaat mag niet samen werken met een onderwereld persoon om persoon uit te breken.  
 Een advocaat moet betaald worden om een persoon vrij te krijgen.  
 Een advocaat mag geen zelfde achternaam als de persoon in de cell hebben.  
 
-## Artikel 23: Politie (Straf-categorie: 2)
+## Artikel 22: Politie (Straf-categorie: 2)
 
 Bij een winkeloverval bepaald de OvD wat de inzet qua politie zal zijn, wanneer geen OvD aanwezig is zal de hoogste aanwezig binnen het korps dit op zich nemen.  
 Bij een winkel overval mag er geen dsi aanwezig zijn.  
@@ -269,14 +261,14 @@ Het gebruik van vuurwapens door de politie is in de volgende scenario's toegesta
 - Zware wapens mogen enkel door de daarvoor opgeleiden eenheden gebruikt worden.  
 - Een Huiszoeking mag op het moment dat er geschoten is bij appartementen.  
 
-## Artikel 24: Corruptie (Straf-categorie: 5)
+## Artikel 23: Corruptie (Straf-categorie: 5)
 
 Whitelisted banen die via tickets zijn aangevraagt mogen geen corruptie doen.
 Het corrupt zijn bij een overheid baan is niet toegestaan.  
 
 Het doen van illegale activiteiten bij de cardealer is niet toegestaan (in bezit zijn van wapens, overvallen plegen)
 
-## Artikel 25: Tickets (Straf-categorie: 5)
+## Artikel 24: Tickets (Straf-categorie: 5)
 
 - Een refund ticket moet vanuit eigen bewijs zijn  
 - Een klacht tegen een hulpdienst mag niet behandeld worden door een stafflid van de desbetreffende job  
@@ -285,11 +277,11 @@ Het doen van illegale activiteiten bij de cardealer is niet toegestaan (in bezit
 - Abuse ticket word behandel door management/beheer  
 - Onderwereld ticket komen in de onderwereld.  
 
-## Artikel 26: ID kaart (Straf-categorie: 10)
+## Artikel 25: ID kaart (Straf-categorie: 10)
 
 Als je in een gang zit ben jij verplicht om jou gang/groep naam op jou ID te zetten.
 
-## Artikel 27: Externe Discord (Straf-categorie: 10)
+## Artikel 26: Externe Discord (Straf-categorie: 10)
 
 Het hebben van een externe discord server is toegestaan als je toestemming hebt van management/beheer hebt.  
 Er zal minstens 1 stafflid (beheer of management) de permissie "Administrator" dan moeten hebben.
