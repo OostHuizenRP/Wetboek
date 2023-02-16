@@ -7,6 +7,9 @@ description: Dreigingsniveau's
 !!! warning "De active dreigingsniveau op OostHuizen Roleplay."
 **4 - Kritiek**  
 Dit dreigingsniveau wordt in Nederland van kracht als er zeer sterke aanwijzingen zijn dat een aanslag in Nederland zal plaatsvinden. Nederland wordt bijvoorbeeld vaak genoemd in verklaringen van terroristische organisaties en zij hebben het voorzien op specifieke doelen.
+ 
+De politie/dsi/hrb zal aanwezig zijn met zware wapens.  
+De politie rijdt ook in gepanzerde voertuigen.
 
 !!! warning "Alle dreiginingsniveaus binnen OostHuizen Roleplay."
 
