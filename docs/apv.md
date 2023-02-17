@@ -291,3 +291,20 @@ Er zal minstens 1 stafflid (beheer of management) de permissie "Administrator" d
 ## Artikel 27: Overig (Straf-categorie: 2)
 
 - Het is niet toegestaan om meer dan 2 staff leden te hebben in de cardealer 'job' te hebben.  
+
+## Artikel 28 - Karakter breken (OOC) (Straf-categorie: 2)
+
+Onder karakter breken OOC wordt verstaan: Termen gebruiken die je niet in je karakter kunt gebruiken, dus out of character.
+
+Tot slot is het ook niet toegestaan om tijdens een scenario een report te maken met als reden dat dit scenario verstorend kan werken. Maak na de betreffende scenario een report aan of open een ticket.
+
+## Artikel 29 - GTA Style Driving (Straf-categorie: 3)
+
+Onder GTA Style Driving wordt verstaan: Het onrealistisch rijden in een voertuig zoals je dat in werkelijkheid niet zal doen.
+
+Enkele voorbeelden van GTA Drivestyle zijn:
+
+- Het rammen/onnodig beuken van andere voertuigen zonder enige reden;
+- Met een on-road voertuig opzettelijk off-road rijden;
+- Met heel hoge snelheden op drukke plekken rijden, zonder na te denken over de mogelijke consequenties;
+- Met je voertuig gebouwen inrijden
