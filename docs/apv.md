@@ -179,7 +179,6 @@ Bankovervallen:
 - Leden van Imperium mogen niet ontvoert worden dit moet ook op ID kaart staan.  
 - Drugs locaties mogen niet gratis gegeven worden.  
 - Het is toegestaan om in je groep max 3 staff leden te hebben.  
-- Het is niet toegestaan om meer dan 2 staff leden te hebben in de cardealer 'job' te hebben.
 - Outside shooters bij winkel overval zijn niet meer toegestaan  
 
 Rippen  
@@ -288,3 +287,7 @@ Als je in een gang zit ben jij verplicht om jou gang/groep naam op jou ID te zet
 
 Het hebben van een externe discord server is toegestaan als je toestemming hebt van management/beheer hebt.  
 Er zal minstens 1 stafflid (beheer of management) de permissie "Administrator" dan moeten hebben.
+
+## Artikel 27: Overig (Straf-categorie: 2)
+
+- Het is niet toegestaan om meer dan 2 staff leden te hebben in de cardealer 'job' te hebben.  
