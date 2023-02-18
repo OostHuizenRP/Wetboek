@@ -147,14 +147,14 @@ Je mag pas een van de onderstaande overheid medewerkers ontvoeren vanaf aantal a
 
 Hieronder staat goed aangegeven vanaf wanneer je mag rippen.
 
-- Het is toegestaan om burgers te rippen vanaf **3+ politie**.  
+- Het is toegestaan om burgers te rippen vanaf **0+ politie**.  
 De burger moet dan wel een holster en/of masker dragen.  
 - Een wapen moet gezien zijn voor dat deze geript mag worden.  
 - Witwas busjes mogen geript worden zonder politie, max **10k**  
 - Je kunt alleen iemand fouilleren wanneer je in bezit bent van een wapen.  
 - Bij het innemen van wapens dien je het wapen visueel gezien te hebben of als de persoon een masker, holster dit wordt anders volgens categorie 4 gestraft.  
 - Je mag geen kennis hebben van de illegale spullen die de persoon op zak heeft wanneer de persoon geen masker, holster aan heeft.  
-- Eiland rippen mag vanaf **3+ politie**
+- Eiland rippen mag vanaf **0+ politie**
 
 ## Artikel 16: Overvallen op winkels en banken (Straf-categorie: 2)
 
